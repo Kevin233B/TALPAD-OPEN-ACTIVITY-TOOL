@@ -10,6 +10,13 @@
 
 这个工具可以帮助您修改壁纸与打开系统设置（整个settings就这个没有设置为不导出了吧）
 
+其实这个工具没啥用（只是为了照顾一群人喜欢改壁纸和开原生装酷罢了
+
+请不要询问关于变量名的问题感谢感谢
+
+# 这个工具怎么用？
+
+将本仓库打包成zip，用qq或者wechat等方式传入学习机，学习机安装python编译器ide，控制台unzip本仓库然后chmod +x start.sh，最后./start.sh即可
 # 版权声明
 Copyright (c) 2026 Kevin(TALPAD-BOOM Team). All Rights Reserved.（仅限本脚本）
 
