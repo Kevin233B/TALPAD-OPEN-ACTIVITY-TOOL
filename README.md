@@ -14,9 +14,20 @@
 
 请不要询问关于变量名的问题感谢感谢
 
-# 这个工具怎么用？
+## 这个工具怎么用？
+将本仓库打包成zip，用qq或者wechat等方式传入学习机（您的文件名假设是main.zip）
 
-将本仓库打包成zip，用qq或者wechat等方式传入学习机，学习机安装python编译器ide，控制台unzip本仓库然后chmod +x start.sh，最后./start.sh即可
+Python编译器ide执行
+```sh
+cd
+cp /sdcard/Download/QQ/main.zip ./
+unzip main.zip
+chmod +x start.sh
+./start.sh
+```
+执行了上述指令，您应该可以正常使用本项目了
+
+**出错了？问题检查：您的文件名是main.zip吗？如果不是请修改指令或文件名。您的环境是Python编译器ide吗？如果不是，那么请把执行环境切换成Python编译器ide，因为本项目使用的am.apk仅支持Python编译器ide的包名，有能力的话您可以自行修改apk**
 # 版权声明
 Copyright (c) 2026 Kevin(TALPAD-BOOM Team). All Rights Reserved.（仅限本脚本）
 
