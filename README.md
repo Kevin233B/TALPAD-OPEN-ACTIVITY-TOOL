@@ -28,6 +28,11 @@ chmod +x start.sh
 执行了上述指令，您应该可以正常使用本项目了
 
 **出错了？问题检查：您的文件名是main.zip吗？如果不是请修改指令或文件名。您的环境是Python编译器ide吗？如果不是，那么请把执行环境切换成Python编译器ide，因为本项目使用的am.apk仅支持Python编译器ide的包名，有能力的话您可以自行修改apk**
+## 有Bug?上报交给我们解决吧！
+我们**鼓励任何用户成为本项目的协助者**，不管您是**通过issue上报了Bug还是通过PR提交了修复代码**，您都会**成为这个项目的协作者**
+
+TALPAD-BOOM**维护每一位创作者的权益，您的所作所为将会被记录在贡献文档中**
+
 # 版权声明
 Copyright (c) 2026 Kevin(TALPAD-BOOM Team). All Rights Reserved.（仅限本脚本）
 
