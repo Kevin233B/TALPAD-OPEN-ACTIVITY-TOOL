@@ -13,7 +13,8 @@ then
   echo "--------------------------------------------------"
   echo "1.修改壁纸"
   echo "2.系统设置"
-  echo "3.退出脚本"
+  echo "3.加入主群"
+  echo "4.退出脚本"
   read IWantFuckZaoChaGuang < /dev/tty
   if [ "$IWantFuckZaoChaGuang" = "1" ]
   then
@@ -25,9 +26,12 @@ then
   fi
   if [ "$IWantFuckZaoChaGuang" = "3" ]
   then
-    echo "脚本退出~有缘再见~"
-    exit
+    app_process -Djava.class.path=am.apk /system/bin com.termux.termuxam.Am start -a android.intent.action.VIEW -d "mqqapi://card/show_pslcard?src_type=internal&version=1&card_type=group&uin=704943246"
   fi
+  if [ "$IWantFuckZaoChaGuang" = "4" ]
+  then
+  echo "脚本退出，有缘再见~"
+  exit
 else
   echo "在不同意免责协议的情况下，您不得使用本脚本，程序将在 3 秒后退出"
   sleep 3
