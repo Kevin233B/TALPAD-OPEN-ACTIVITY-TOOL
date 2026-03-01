@@ -17,8 +17,9 @@
 ## 这个工具怎么用？
 将本仓库打包成zip，用qq或者wechat等方式传入学习机（您的文件名假设是main.zip）
 
-Python编译器ide执行
-```sh
+Python编译器ide→我的→控制台
+在终端输入：
+```bash
 cd
 cp /sdcard/Download/QQ/main.zip ./
 unzip main.zip
