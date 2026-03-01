@@ -32,6 +32,7 @@ then
   then
   echo "脚本退出，有缘再见~"
   exit
+  fi
 else
   echo "在不同意免责协议的情况下，您不得使用本脚本，程序将在 3 秒后退出"
   sleep 3

@@ -33,6 +33,11 @@ chmod +x start.sh
 
 TALPAD-BOOM**维护每一位创作者的权益，您的所作所为将会被记录在贡献文档中**
 
+# 贡献
+**感谢这些用户，在使用本工具时及时上报了问题**
+
+1.QQ用户"(●—●)"，在**使用本工具时发现了关于if语句的闭合错误**，由衷感谢您的付出
+
 # 版权声明
 Copyright (c) 2026 Kevin(TALPAD-BOOM Team). All Rights Reserved.（仅限本脚本）
 
