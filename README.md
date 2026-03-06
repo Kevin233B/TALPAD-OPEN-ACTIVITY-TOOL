@@ -1,4 +1,4 @@
-<span style="color: red;"># 注意！</span>
+# 注意！
 
 目前**<span style="color: red;"># 学而思官方已经注意到了本工具！</span>**
 
