@@ -1,3 +1,12 @@
+<span style="color: red;"># 注意！</span>
+
+目前**<span style="color: red;"># 学而思官方已经注意到了本工具！</span>**
+
+因此**本工具决定不再维护**
+
+任何**PR，Issue将不再受理**
+
+感谢您对TALPAD-BOOM的支持
 # 简介
 
 ## 这个工具适用于什么设备？
